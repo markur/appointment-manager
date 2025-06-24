@@ -1,0 +1,2 @@
+# Common / Shared widgets used across multiple features.
+# e.g., CustomButton, LoadingIndicator, EmptyStateWidget

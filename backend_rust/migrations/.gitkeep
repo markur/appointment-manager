@@ -1,0 +1,4 @@
+# This file keeps the migrations directory in git even if it's empty initially.
+# SQL migration files will go here, e.g.:
+# 20231026000000_create_users_table.sql
+# 20231026000001_create_clients_table.sql

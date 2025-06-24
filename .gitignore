@@ -1,0 +1,39 @@
+# General
+.DS_Store
+*.log
+*.swo
+*.swp
+*~
+
+# Rust / Cargo
+target/
+**/target/
+backend_rust/target/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+frontend_flutter/build/
+frontend_flutter/.dart_tool/
+frontend_flutter/.packages
+frontend_flutter/.flutter-plugins
+frontend_flutter/.flutter-plugins-dependencies
+frontend_flutter/ios/
+frontend_flutter/android/
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+nbproject/
+
+# OS specific
+.DS_Store
+Thumbs.db
